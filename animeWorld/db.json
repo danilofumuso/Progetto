@@ -1,0 +1,447 @@
+{
+  "users": [],
+  "animes": [
+    {
+      "id": 1,
+      "title": "Naruto",
+      "description": "Un giovane ninja cerca di diventare Hokage.",
+      "imageUrl": "https://www.lafeltrinelli.it/images/9788828742470_0_536_0_75.jpg",
+      "year": 2002,
+      "watched": true,
+      "genres": ["Azione", "Avventura"],
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Naruto Shippuden",
+      "description": "Naruto ritorna a Konoha più forte che mai.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
+      "year": 2007,
+      "watched": true,
+      "genres": ["Azione", "Avventura"],
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "Bleach",
+      "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2004,
+      "watched": false,
+      "genres": ["Azione", "Soprannaturale"],
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "title": "Attack on Titan",
+      "description": "L'umanità combatte contro i Titani.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2013,
+      "watched": true,
+      "genres": ["Azione", "Dramma"],
+      "authorId": 3
+    },
+    {
+      "id": 5,
+      "title": "Fullmetal Alchemist",
+      "description": "Due fratelli usano l'alchimia per recuperare i loro corpi.",
+      "imageUrl": "https://m.media-amazon.com/images/I/814IPObkuRL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2003,
+      "watched": true,
+      "genres": ["Azione", "Fantasy"],
+      "authorId": 4
+    },
+    {
+      "id": 6,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "La versione definitiva della storia dei fratelli Elric.",
+      "imageUrl": "https://i.ebayimg.com/images/g/EjAAAOSwiKVkNfyi/s-l1200.jpg",
+      "year": 2009,
+      "watched": true,
+      "genres": ["Azione", "Fantasy"],
+      "authorId": 4
+    },
+    {
+      "id": 7,
+      "title": "Death Note",
+      "description": "Un quaderno in grado di uccidere chiunque.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61bF02c42JL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2006,
+      "watched": true,
+      "genres": ["Thriller", "Soprannaturale"],
+      "authorId": 5
+    },
+    {
+      "id": 8,
+      "title": "One Piece",
+      "description": "Luffy e la sua ciurma cercano il tesoro One Piece.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81hipaenXVL._AC_UF1000,1000_QL80_.jpg",
+      "year": 1999,
+      "watched": false,
+      "genres": ["Azione", "Avventura"],
+      "authorId": 6
+    },
+    {
+      "id": 9,
+      "title": "Dragon Ball Z",
+      "description": "Goku affronta potenti nemici per proteggere la Terra.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81Dy6cNM7yL._AC_UF1000,1000_QL80_.jpg",
+      "year": 1989,
+      "watched": true,
+      "genres": ["Azione", "Arti Marziali"],
+      "authorId": 7
+    },
+    {
+      "id": 10,
+      "title": "My Hero Academia",
+      "description": "In un mondo di supereroi, un ragazzo senza poteri vuole diventare un eroe.",
+      "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/myheroacademia1-1200px",
+      "year": 2016,
+      "watched": false,
+      "genres": ["Azione", "Supereroi"],
+      "authorId": 8
+    },
+    {
+      "id": 11,
+      "title": "Demon Slayer",
+      "description": "Un giovane combatte i demoni per salvare la sua famiglia.",
+      "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/demonslayer-fanbook-1200px",
+      "year": 2019,
+      "watched": true,
+      "genres": ["Azione", "Soprannaturale"],
+      "authorId": 9
+    },
+    {
+      "id": 12,
+      "title": "Tokyo Ghoul",
+      "description": "Un ragazzo diventa metà ghoul e cerca di adattarsi alla sua nuova vita.",
+      "imageUrl": "https://www.lafeltrinelli.it/images/9788834918494_0_536_0_75.jpg",
+      "year": 2014,
+      "watched": true,
+      "genres": ["Horror", "Soprannaturale"],
+      "authorId": 10
+    },
+    {
+      "id": 13,
+      "title": "Fairy Tail",
+      "description": "Natsu Dragneel, un giovane mago, affronta avventure insieme alla sua gilda.",
+      "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/fairytail-variantcoveredition-1-1200px",
+      "year": 2009,
+      "watched": false,
+      "genres": ["Azione", "Fantasy"],
+      "authorId": 11
+    },
+    {
+      "id": 14,
+      "title": "Sword Art Online",
+      "description": "Giocatori intrappolati in un MMORPG lottano per la loro libertà.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81rBX2Un6xL.jpg",
+      "year": 2012,
+      "watched": true,
+      "genres": ["Azione", "Fantasy"],
+      "authorId": 12
+    },
+    {
+      "id": 15,
+      "title": "Neon Genesis Evangelion",
+      "description": "Adolescenti pilotano mech per difendere la Terra.",
+      "imageUrl": "https://www.lafeltrinelli.it/images/9788828766520_0_424_0_75.jpg",
+      "year": 1995,
+      "watched": false,
+      "genres": ["Mecha", "Dramma"],
+      "authorId": 13
+    },
+    {
+      "id": 16,
+      "title": "Black Clover",
+      "description": "Asta, senza magia, cerca di diventare il Re Mago.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91dyTOTuCjL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2017,
+      "watched": false,
+      "genres": ["Azione", "Fantasy"],
+      "authorId": 14
+    },
+    {
+      "id": 17,
+      "title": "JoJo's Bizarre Adventure",
+      "description": "Le bizzarre avventure della famiglia Joestar.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8d/Jojo.jpg/1200px-Jojo.jpg",
+      "year": 2012,
+      "watched": true,
+      "genres": ["Azione", "Avventura"],
+      "authorId": 15
+    },
+    {
+      "id": 18,
+      "title": "Hunter x Hunter",
+      "description": "Gon Freecss cerca suo padre come cacciatore.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61IiTjgqGNL._AC_UF1000,1000_QL80_.jpg",
+      "year": 1999,
+      "watched": false,
+      "genres": ["Azione", "Avventura"],
+      "authorId": 16
+    },
+    {
+      "id": 19,
+      "title": "Clannad",
+      "description": "Storia romantica di Tomoya e Nagisa.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91GvVFUJiGL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2007,
+      "watched": true,
+      "genres": ["Dramma", "Romance"],
+      "authorId": 17
+    },
+    {
+      "id": 20,
+      "title": "Code Geass",
+      "description": "Un giovane ottiene il potere di controllare le persone.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71U67rjOMML._AC_UF1000,1000_QL80_.jpg",
+      "year": 2006,
+      "watched": true,
+      "genres": ["Mecha", "Dramma"],
+      "authorId": 18
+    },
+    {
+      "id": 21,
+      "title": "Gintama",
+      "description": "Sulle avventure di un samurai in una Edo alternativa.",
+      "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/gintama1-jpg-1",
+      "year": 2006,
+      "watched": false,
+      "genres": ["Commedia", "Azione"],
+      "authorId": 19
+    },
+    {
+      "id": 22,
+      "title": "Psycho-Pass",
+      "description": "Un futuro distopico dove i crimini sono previsti.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71zsppNGq9L._AC_UF1000,1000_QL80_.jpg",
+      "year": 2012,
+      "watched": true,
+      "genres": ["Thriller", "Sci-Fi"],
+      "authorId": 20
+    },
+    {
+      "id": 23,
+      "title": "Steins;Gate",
+      "description": "Viaggi nel tempo e misteri scientifici.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71g8dxxPJML._AC_UF1000,1000_QL80_.jpg",
+      "year": 2011,
+      "watched": false,
+      "genres": ["Sci-Fi", "Thriller"],
+      "authorId": 21
+    },
+    {
+      "id": 24,
+      "title": "Mob Psycho 100",
+      "description": "Un ragazzo con poteri psichici cerca normalità.",
+      "imageUrl": "https://m.media-amazon.com/images/I/91UKU5m0YCL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2016,
+      "watched": true,
+      "genres": ["Azione", "Commedia"],
+      "authorId": 22
+    },
+    {
+      "id": 25,
+      "title": "Akame ga Kill!",
+      "description": "Un gruppo di assassini lotta contro un impero corrotto.",
+      "imageUrl": "https://www.fumettishop.it/wp-content/uploads/2023/09/8fb40dbad0f455a78adc0af1b98bdf29-722x999.jpg",
+      "year": 2014,
+      "watched": false,
+      "genres": ["Azione", "Dark Fantasy"],
+      "authorId": 23
+    },
+    {
+      "id": 26,
+      "title": "Blue Exorcist",
+      "description": "Un ragazzo scopre di essere figlio di Satana.",
+      "imageUrl": "https://m.media-amazon.com/images/I/813zZPC35ZL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2011,
+      "watched": true,
+      "genres": ["Azione", "Soprannaturale"],
+      "authorId": 24
+    },
+    {
+      "id": 27,
+      "title": "Parasyte",
+      "description": "Un giovane è infettato da un parassita alieno.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71s8eHAexEL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2014,
+      "watched": false,
+      "genres": ["Horror", "Sci-Fi"],
+      "authorId": 25
+    },
+    {
+      "id": 28,
+      "title": "Your Lie in April",
+      "description": "Storia d'amore di un giovane pianista.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71KVorUu1QL._AC_UF1000,1000_QL80_.jpg",
+      "year": 2014,
+      "watched": true,
+      "genres": ["Dramma", "Romance"],
+      "authorId": 26
+    },
+    {
+      "id": 29,
+      "title": "Violet Evergarden",
+      "description": "Un'ex soldatessa scopre il significato delle emozioni.",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc._UR300,300_BL99_UR1920,1080_CLs%7C1920,1080%7C/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc.jpg%7C0,0,1920,1080+0,0,1920,1080_SX720_FMjpg_.jpg",
+      "year": 2018,
+      "watched": false,
+      "genres": ["Dramma", "Fantasy"],
+      "authorId": 27
+    },
+    {
+      "id": 30,
+      "title": "Erased",
+      "description": "Un uomo viaggia nel tempo per prevenire un crimine.",
+      "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/erased1-jpg-1",
+      "year": 2016,
+      "watched": true,
+      "genres": ["Thriller", "Dramma"],
+      "authorId": 28
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "fullName": "Masashi Kishimoto",
+      "bio": "Masashi Kishimoto è uno dei mangaka più celebri a livello internazionale, principalmente noto per la creazione della serie 'Naruto'. Nato nel 1974 in Giappone, Kishimoto ha trasformato la sua passione per l'arte e la narrazione in una carriera eccezionale. 'Naruto', che esplora temi come l'amicizia, il sacrificio e il superamento delle difficoltà, ha avuto un impatto duraturo nel mondo dei manga e degli anime, rendendo Kishimoto una figura rispettata e seguita da milioni di fan."
+    },
+    {
+      "id": 2,
+      "fullName": "Tite Kubo",
+      "bio": "Tite Kubo, autore di 'Bleach', è nato nel 1977 ed è diventato un punto di riferimento nel mondo dei manga shonen. La sua opera più famosa, 'Bleach', segue le avventure di Ichigo Kurosaki, un ragazzo capace di vedere gli spiriti, in un mondo pieno di combattimenti e creature sovrannaturali. Kubo è noto per il suo stile unico e per le intense scene d’azione, che hanno contribuito a rendere 'Bleach' un fenomeno globale nel panorama manga."
+    },
+    {
+      "id": 3,
+      "fullName": "Hajime Isayama",
+      "bio": "Hajime Isayama, nato nel 1986, ha rivoluzionato il mondo dei manga con la sua serie 'Attack on Titan'. L'opera di Isayama è nota per il suo tono oscuro e per la complessità della sua trama, che esplora temi di sopravvivenza e disperazione in un mondo dominato da creature giganti. La storia ha catturato l’immaginazione di lettori di tutto il mondo, rendendo Isayama una delle voci più originali e influenti della sua generazione."
+    },
+    {
+      "id": 4,
+      "fullName": "Hiromu Arakawa",
+      "bio": "Hiromu Arakawa, famosa per 'Fullmetal Alchemist', è nata nel 1973 in Giappone e ha guadagnato un ampio seguito grazie alla sua straordinaria narrazione. Cresciuta in una famiglia di agricoltori, ha sviluppato una profonda comprensione della perseveranza e del lavoro duro, elementi che spesso emergono nei suoi personaggi. 'Fullmetal Alchemist' è noto per la sua complessità e per la riflessione sui temi di sacrificio e responsabilità scientifica, che hanno contribuito a rendere Arakawa una delle mangaka più rispettate."
+    },
+    {
+      "id": 5,
+      "fullName": "Tsugumi Ohba",
+      "bio": "Tsugumi Ohba è l'autore dietro 'Death Note', una serie che esplora il confine tra giustizia e immoralità. Con una trama intricata e un cast di personaggi indimenticabili, Ohba ha creato un thriller psicologico che ha affascinato milioni di lettori e spettatori. La storia, incentrata su un quaderno con il potere di uccidere, riflette la genialità narrativa di Ohba e ha influenzato profondamente il genere dark-fantasy."
+    },
+    {
+      "id": 6,
+      "fullName": "Eiichiro Oda",
+      "bio": "Eiichiro Oda è il visionario autore di 'One Piece', la serie manga di maggior successo nella storia. Nato nel 1975, Oda ha iniziato a creare manga fin da giovane, coltivando il sogno di diventare un mangaka. 'One Piece' è una straordinaria avventura che segue le peripezie della ciurma di pirati di Monkey D. Luffy. Con un universo ricco e variegato, Oda ha saputo costruire una storia che ha appassionato generazioni e che continua a evolversi ancora oggi."
+    },
+    {
+      "id": 7,
+      "fullName": "Akira Toriyama",
+      "bio": "Akira Toriyama è il celebre creatore di 'Dragon Ball', una delle serie più influenti e iconiche nel mondo dei manga. Nato nel 1955, Toriyama ha ridefinito il genere action con la storia di Son Goku e i suoi amici, combinando combattimenti epici e umorismo. 'Dragon Ball' ha avuto un impatto culturale duraturo, diventando un fenomeno mondiale e influenzando generazioni di creatori e fan in tutto il mondo."
+    },
+    {
+      "id": 8,
+      "fullName": "Kohei Horikoshi",
+      "bio": "Kohei Horikoshi è l'autore di 'My Hero Academia', una serie che esplora il mondo dei supereroi da una prospettiva giapponese. Nato nel 1986, Horikoshi ha miscelato elementi occidentali con lo stile manga per creare un'opera unica, dove il protagonista Izuku Midoriya aspira a diventare un eroe in un mondo di individui dotati di superpoteri. La serie è apprezzata per il suo messaggio di determinazione e perseveranza, rendendo Horikoshi una figura amata nel panorama manga."
+    },
+    {
+      "id": 9,
+      "fullName": "Koyoharu Gotouge",
+      "bio": "Koyoharu Gotouge ha conquistato il mondo con 'Demon Slayer', un manga che ha toccato il cuore dei lettori per la sua intensa narrazione e il suo stile artistico distintivo. Nata nel 1989, Gotouge ha creato la storia di Tanjiro Kamado, un ragazzo che combatte per salvare la sorella da una maledizione demoniaca. Con temi di coraggio e redenzione, 'Demon Slayer' è diventato rapidamente uno dei manga più venduti, confermando Gotouge come una delle autrici più talentuose."
+    },
+    {
+      "id": 10,
+      "fullName": "Sui Ishida",
+      "bio": "Sui Ishida è l'autore di 'Tokyo Ghoul', una serie che combina horror e dramma psicologico in un mondo oscuro e complesso. La storia segue Ken Kaneki, un giovane che diventa mezzo-ghoul e si ritrova a vivere tra due mondi in conflitto. Ishida esplora temi di alienazione e accettazione in una società piena di pregiudizi, rendendo 'Tokyo Ghoul' un'opera di grande profondità emotiva e visiva."
+    },
+    {
+      "id": 11,
+      "fullName": "Yoshihiro Togashi",
+      "bio": "Yoshihiro Togashi è un mangaka versatile, noto per 'Hunter x Hunter' e 'Yu Yu Hakusho'. Nato nel 1966, Togashi ha creato opere che spaziano dai temi di amicizia e avventura ai dilemmi morali e psicologici. 'Hunter x Hunter', in particolare, è celebrato per la sua complessità narrativa e per i suoi personaggi profondi e sfaccettati, rendendo Togashi uno degli autori più rispettati e amati."
+    },
+    {
+      "id": 12,
+      "fullName": "Rumiko Takahashi",
+      "bio": "Rumiko Takahashi è una delle autrici di manga più prolifiche e influenti, nota per serie come 'Inuyasha' e 'Ranma ½'. Nata nel 1957, Takahashi ha creato storie che spaziano dal romanticismo alla commedia e all'azione, esplorando temi di crescita e identità. Con un'enorme fanbase in Giappone e nel mondo, Takahashi è considerata una pioniera e un'icona nel mondo dei manga."
+    },
+    {
+      "id": 13,
+      "fullName": "Naoko Takeuchi",
+      "bio": "Naoko Takeuchi è la creatrice di 'Sailor Moon', una serie che ha ridefinito il genere delle magical girls. Nata nel 1967, Takeuchi ha trasformato la figura dell'eroina, combinando elementi di amicizia, amore e coraggio in una storia che ha ispirato generazioni di giovani lettori. 'Sailor Moon' è diventato un fenomeno culturale globale, rendendo Takeuchi un'icona indiscussa nel panorama manga."
+    },
+    {
+      "id": 14,
+      "fullName": "Clamp",
+      "bio": "Clamp è un collettivo di autrici giapponesi che ha dato vita a storie uniche e stilisticamente innovative, come 'Cardcaptor Sakura' e 'xxxHolic'. Fondato negli anni '80, il gruppo ha esplorato vari generi, dal fantasy al sovrannaturale, creando un'immensa fanbase. La loro abilità nel creare personaggi indimenticabili e nel tessere storie complesse ha reso Clamp uno dei team più rispettati nel mondo dei manga."
+    },
+    {
+      "id": 15,
+      "fullName": "Kentaro Miura",
+      "bio": "Kentaro Miura è stato l'autore di 'Berserk', un manga che ha ridefinito il genere dark fantasy. Nato nel 1966 e scomparso nel 2021, Miura ha creato una storia epica che esplora la brutalità e la redenzione. 'Berserk' è noto per la sua arte dettagliata e per la profondità psicologica dei suoi personaggi, rendendo Miura una leggenda nel mondo dei manga."
+    },
+    {
+      "id": 16,
+      "fullName": "Takehiko Inoue",
+      "bio": "Takehiko Inoue è conosciuto per 'Slam Dunk' e 'Vagabond', opere che esplorano temi di crescita personale e spirito di squadra. Nato nel 1967, Inoue è celebre per il suo realismo artistico e per la sua capacità di catturare le emozioni umane. 'Slam Dunk' ha contribuito a diffondere la cultura del basket in Giappone, mentre 'Vagabond' è un'epopea sulla vita del leggendario samurai Miyamoto Musashi."
+    },
+    {
+      "id": 17,
+      "fullName": "Yuki Tabata",
+      "bio": "Yuki Tabata è l'autore di 'Black Clover', una serie fantasy che segue le avventure di Asta, un ragazzo senza magia in un mondo in cui questa è fondamentale. Tabata, nato nel 1984, ha conquistato i lettori con il suo stile dinamico e per la costruzione di un universo ricco di personaggi unici e storie avvincenti, rendendo 'Black Clover' una delle serie più amate degli ultimi anni."
+    },
+    {
+      "id": 18,
+      "fullName": "Kazuki Takahashi",
+      "bio": "Kazuki Takahashi è l'ideatore di 'Yu-Gi-Oh!', un franchise che ha spaziato dai manga ai giochi di carte collezionabili e agli anime. Nato nel 1961 e scomparso nel 2022, Takahashi ha creato un mondo in cui i giochi e le sfide diventano metafore di amicizia e rivalità, facendo di 'Yu-Gi-Oh!' un fenomeno globale e rendendo Takahashi un pioniere nell'industria."
+    },
+    {
+      "id": 19,
+      "fullName": "Yoshiki Nakamura",
+      "bio": "Yoshiki Nakamura è nota per 'Skip Beat!', una serie shojo che esplora il mondo dello spettacolo e la ricerca dell'autorealizzazione. Nata nel 1969, Nakamura ha creato una storia che combina romanticismo e determinazione, conquistando il cuore di molti lettori grazie alla protagonista Kyoko Mogami, che cerca di reinventarsi e trovare il proprio posto nel mondo."
+    },
+    {
+      "id": 20,
+      "fullName": "Ai Yazawa",
+      "bio": "Ai Yazawa, autrice di 'Nana' e 'Paradise Kiss', è nata nel 1967 ed è famosa per le sue storie emotive e realistiche. 'Nana' è un'opera che esplora i sogni e i legami personali di due ragazze omonime, catturando le sfide e le gioie della giovinezza. Con il suo stile unico e la capacità di toccare temi profondi, Yazawa è diventata una figura iconica nel genere shojo."
+    },
+    {
+      "id": 21,
+      "fullName": "Haruo Umezawa",
+      "bio": "Haruo Umezawa è il creatore di 'Kitaro', un manga che ha contribuito a plasmare il genere horror in Giappone. La storia di Kitaro e del suo viaggio in un mondo popolato da spiriti e mostri ha reso Umezawa uno dei più celebri autori di manga horror."
+    },
+    {
+      "id": 22,
+      "fullName": "Shigeru Mizuki",
+      "bio": "Shigeru Mizuki è stato uno degli autori di manga più influenti, noto per le sue opere sui mostri giapponesi e sul folklore. Nato nel 1922 e scomparso nel 2015, Mizuki ha creato storie che esplorano il soprannaturale, contribuendo a portare il genere horror e fantasy tradizionale giapponese ai lettori moderni."
+    },
+    {
+      "id": 23,
+      "fullName": "Motomi Kyousuke",
+      "bio": "Motomi Kyousuke è conosciuto per 'Dengeki Daisy', un manga shojo che esplora l'amore e la crescita personale in un contesto di mistero e avventura. Con personaggi ben definiti e una narrazione accattivante, Motomi ha guadagnato popolarità tra i fan del genere."
+    },
+    {
+      "id": 24,
+      "fullName": "Kaoru Mori",
+      "bio": "Kaoru Mori è l'autrice di 'Emma' e 'A Bride's Story', opere ambientate in periodi storici con una straordinaria attenzione ai dettagli. Mori è famosa per il suo stile artistico accurato e la sua narrazione che esplora le relazioni umane in contesti storici e culturali diversi, guadagnando riconoscimenti in tutto il mondo."
+    },
+    {
+      "id": 25,
+      "fullName": "Natsuki Takaya",
+      "bio": "Natsuki Takaya è l'autrice di 'Fruits Basket', una delle serie shojo più amate, che combina elementi fantastici e dramma. La storia segue Tohru Honda e la famiglia Soma, portando alla luce temi di amore, accettazione e crescita personale. Con la sua capacità di toccare corde emotive profonde, Takaya ha conquistato un vasto pubblico."
+    },
+    {
+      "id": 26,
+      "fullName": "Junji Ito",
+      "bio": "Junji Ito è un maestro del manga horror, noto per opere come 'Uzumaki' e 'Tomie'. Nato nel 1963, Ito è famoso per il suo stile disturbante e per le sue storie che esplorano l'orrore psicologico e il soprannaturale, rendendolo uno dei più celebri autori di horror a livello mondiale."
+    },
+    {
+      "id": 27,
+      "fullName": "Kei Sasuga",
+      "bio": "Kei Sasuga è conosciuta per 'Domestic Girlfriend', un manga che esplora relazioni complesse e temi maturi. La sua abilità nel rappresentare dinamiche personali e romantiche ha reso la sua opera molto discussa e apprezzata da un vasto pubblico."
+    },
+    {
+      "id": 28,
+      "fullName": "Kazue Kato",
+      "bio": "Kazue Kato è l'autrice di 'Blue Exorcist', un manga che segue le avventure di Rin Okumura, un giovane esorcista con una natura demoniaca. Kato, nata nel 1980, ha costruito una storia che combina elementi di azione, avventura e sovrannaturale, attirando lettori appassionati in tutto il mondo."
+    }
+  ]
+}

@@ -18,7 +18,7 @@ export class LoginComponent {
 
   login() {
     this.authSvc.login(this.formData).subscribe(() => {
-      this.router.navigate(['/profilePage']);
+      this.router.navigate(['/home']);
     });
   }
 }

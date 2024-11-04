@@ -1,5 +1,14 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "rik@live.it",
+      "password": "$2a$10$nOVePirgyD/2JVgjMoxhC.hqp6kA/T6zSRlBrWQ4NkQm4hEnOvTjm",
+      "name": "Riccardo",
+      "surname": "Santilli",
+      "userName": "Rik",
+      "id": 1
+    }
+  ],
   "animes": [
     {
       "id": 1,
@@ -8,7 +17,10 @@
       "imageUrl": "https://www.lafeltrinelli.it/images/9788828742470_0_536_0_75.jpg",
       "year": 2002,
       "watched": true,
-      "genres": ["Azione", "Avventura"],
+      "genres": [
+        "Azione",
+        "Avventura"
+      ],
       "authorId": 1
     },
     {
@@ -18,7 +30,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
       "year": 2007,
       "watched": true,
-      "genres": ["Azione", "Avventura"],
+      "genres": [
+        "Azione",
+        "Avventura"
+      ],
       "authorId": 1
     },
     {
@@ -28,7 +43,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
       "year": 2004,
       "watched": false,
-      "genres": ["Azione", "Soprannaturale"],
+      "genres": [
+        "Azione",
+        "Soprannaturale"
+      ],
       "authorId": 2
     },
     {
@@ -38,7 +56,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF1000,1000_QL80_.jpg",
       "year": 2013,
       "watched": true,
-      "genres": ["Azione", "Dramma"],
+      "genres": [
+        "Azione",
+        "Dramma"
+      ],
       "authorId": 3
     },
     {
@@ -48,7 +69,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/814IPObkuRL._AC_UF1000,1000_QL80_.jpg",
       "year": 2003,
       "watched": true,
-      "genres": ["Azione", "Fantasy"],
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
       "authorId": 4
     },
     {
@@ -58,7 +82,10 @@
       "imageUrl": "https://i.ebayimg.com/images/g/EjAAAOSwiKVkNfyi/s-l1200.jpg",
       "year": 2009,
       "watched": true,
-      "genres": ["Azione", "Fantasy"],
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
       "authorId": 4
     },
     {
@@ -68,7 +95,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61bF02c42JL._AC_UF1000,1000_QL80_.jpg",
       "year": 2006,
       "watched": true,
-      "genres": ["Thriller", "Soprannaturale"],
+      "genres": [
+        "Thriller",
+        "Soprannaturale"
+      ],
       "authorId": 5
     },
     {
@@ -78,7 +108,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81hipaenXVL._AC_UF1000,1000_QL80_.jpg",
       "year": 1999,
       "watched": false,
-      "genres": ["Azione", "Avventura"],
+      "genres": [
+        "Azione",
+        "Avventura"
+      ],
       "authorId": 6
     },
     {
@@ -88,7 +121,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Dy6cNM7yL._AC_UF1000,1000_QL80_.jpg",
       "year": 1989,
       "watched": true,
-      "genres": ["Azione", "Arti Marziali"],
+      "genres": [
+        "Azione",
+        "Arti Marziali"
+      ],
       "authorId": 7
     },
     {
@@ -98,7 +134,10 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/myheroacademia1-1200px",
       "year": 2016,
       "watched": false,
-      "genres": ["Azione", "Supereroi"],
+      "genres": [
+        "Azione",
+        "Supereroi"
+      ],
       "authorId": 8
     },
     {
@@ -108,7 +147,10 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/demonslayer-fanbook-1200px",
       "year": 2019,
       "watched": true,
-      "genres": ["Azione", "Soprannaturale"],
+      "genres": [
+        "Azione",
+        "Soprannaturale"
+      ],
       "authorId": 9
     },
     {
@@ -118,7 +160,10 @@
       "imageUrl": "https://www.lafeltrinelli.it/images/9788834918494_0_536_0_75.jpg",
       "year": 2014,
       "watched": true,
-      "genres": ["Horror", "Soprannaturale"],
+      "genres": [
+        "Horror",
+        "Soprannaturale"
+      ],
       "authorId": 10
     },
     {
@@ -128,7 +173,10 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/fairytail-variantcoveredition-1-1200px",
       "year": 2009,
       "watched": false,
-      "genres": ["Azione", "Fantasy"],
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
       "authorId": 11
     },
     {
@@ -138,7 +186,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81rBX2Un6xL.jpg",
       "year": 2012,
       "watched": true,
-      "genres": ["Azione", "Fantasy"],
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
       "authorId": 12
     },
     {
@@ -148,7 +199,10 @@
       "imageUrl": "https://www.lafeltrinelli.it/images/9788828766520_0_424_0_75.jpg",
       "year": 1995,
       "watched": false,
-      "genres": ["Mecha", "Dramma"],
+      "genres": [
+        "Mecha",
+        "Dramma"
+      ],
       "authorId": 13
     },
     {
@@ -158,7 +212,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91dyTOTuCjL._AC_UF1000,1000_QL80_.jpg",
       "year": 2017,
       "watched": false,
-      "genres": ["Azione", "Fantasy"],
+      "genres": [
+        "Azione",
+        "Fantasy"
+      ],
       "authorId": 14
     },
     {
@@ -168,7 +225,10 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8d/Jojo.jpg/1200px-Jojo.jpg",
       "year": 2012,
       "watched": true,
-      "genres": ["Azione", "Avventura"],
+      "genres": [
+        "Azione",
+        "Avventura"
+      ],
       "authorId": 15
     },
     {
@@ -178,7 +238,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61IiTjgqGNL._AC_UF1000,1000_QL80_.jpg",
       "year": 1999,
       "watched": false,
-      "genres": ["Azione", "Avventura"],
+      "genres": [
+        "Azione",
+        "Avventura"
+      ],
       "authorId": 16
     },
     {
@@ -188,7 +251,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91GvVFUJiGL._AC_UF1000,1000_QL80_.jpg",
       "year": 2007,
       "watched": true,
-      "genres": ["Dramma", "Romance"],
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
       "authorId": 17
     },
     {
@@ -198,7 +264,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71U67rjOMML._AC_UF1000,1000_QL80_.jpg",
       "year": 2006,
       "watched": true,
-      "genres": ["Mecha", "Dramma"],
+      "genres": [
+        "Mecha",
+        "Dramma"
+      ],
       "authorId": 18
     },
     {
@@ -208,7 +277,10 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/gintama1-jpg-1",
       "year": 2006,
       "watched": false,
-      "genres": ["Commedia", "Azione"],
+      "genres": [
+        "Commedia",
+        "Azione"
+      ],
       "authorId": 19
     },
     {
@@ -218,7 +290,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71zsppNGq9L._AC_UF1000,1000_QL80_.jpg",
       "year": 2012,
       "watched": true,
-      "genres": ["Thriller", "Sci-Fi"],
+      "genres": [
+        "Thriller",
+        "Sci-Fi"
+      ],
       "authorId": 20
     },
     {
@@ -228,7 +303,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71g8dxxPJML._AC_UF1000,1000_QL80_.jpg",
       "year": 2011,
       "watched": false,
-      "genres": ["Sci-Fi", "Thriller"],
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
       "authorId": 21
     },
     {
@@ -238,7 +316,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91UKU5m0YCL._AC_UF1000,1000_QL80_.jpg",
       "year": 2016,
       "watched": true,
-      "genres": ["Azione", "Commedia"],
+      "genres": [
+        "Azione",
+        "Commedia"
+      ],
       "authorId": 22
     },
     {
@@ -248,7 +329,10 @@
       "imageUrl": "https://www.fumettishop.it/wp-content/uploads/2023/09/8fb40dbad0f455a78adc0af1b98bdf29-722x999.jpg",
       "year": 2014,
       "watched": false,
-      "genres": ["Azione", "Dark Fantasy"],
+      "genres": [
+        "Azione",
+        "Dark Fantasy"
+      ],
       "authorId": 23
     },
     {
@@ -258,7 +342,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/813zZPC35ZL._AC_UF1000,1000_QL80_.jpg",
       "year": 2011,
       "watched": true,
-      "genres": ["Azione", "Soprannaturale"],
+      "genres": [
+        "Azione",
+        "Soprannaturale"
+      ],
       "authorId": 24
     },
     {
@@ -268,7 +355,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71s8eHAexEL._AC_UF1000,1000_QL80_.jpg",
       "year": 2014,
       "watched": false,
-      "genres": ["Horror", "Sci-Fi"],
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
       "authorId": 25
     },
     {
@@ -278,7 +368,10 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71KVorUu1QL._AC_UF1000,1000_QL80_.jpg",
       "year": 2014,
       "watched": true,
-      "genres": ["Dramma", "Romance"],
+      "genres": [
+        "Dramma",
+        "Romance"
+      ],
       "authorId": 26
     },
     {
@@ -288,7 +381,10 @@
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc._UR300,300_BL99_UR1920,1080_CLs%7C1920,1080%7C/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc.jpg%7C0,0,1920,1080+0,0,1920,1080_SX720_FMjpg_.jpg",
       "year": 2018,
       "watched": false,
-      "genres": ["Dramma", "Fantasy"],
+      "genres": [
+        "Dramma",
+        "Fantasy"
+      ],
       "authorId": 27
     },
     {
@@ -298,7 +394,10 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/erased1-jpg-1",
       "year": 2016,
       "watched": true,
-      "genres": ["Thriller", "Dramma"],
+      "genres": [
+        "Thriller",
+        "Dramma"
+      ],
       "authorId": 28
     }
   ],

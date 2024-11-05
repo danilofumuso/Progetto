@@ -1,1 +1,12 @@
-<p>author works!</p>
+<div class="container">
+  <div class="row">
+    <div class="col-12" *ngFor="let author of authors">
+      <h1>{{ author.fullName }}</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12" *ngFor="let animeOf of animesOfAuthor">
+      <app-anime [anime]="animeOf"></app-anime>
+    </div>
+  </div>
+</div>

@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { iAnime } from '../interfaces/i-anime';
 import { environment } from '../../environments/environment.development';
 import { iAuthor } from '../interfaces/i-author';
-import { Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',

@@ -5,7 +5,7 @@ import { AuthorComponent } from './author/author.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'artist/:author', component: AuthorComponent },
+  { path: 'author/:id', component: AuthorComponent },
 ];
 
 @NgModule({

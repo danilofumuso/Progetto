@@ -16,12 +16,13 @@
       "description": "Un giovane ninja cerca di diventare Hokage.",
       "imageUrl": "https://www.lafeltrinelli.it/images/9788828742470_0_536_0_75.jpg",
       "year": 2002,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Avventura"
       ],
-      "authorId": 1
+      "authorId": 1,
+      "author": "Masashi Kishimoto"
     },
     {
       "id": 2,
@@ -29,12 +30,13 @@
       "description": "Naruto ritorna a Konoha più forte che mai.",
       "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
       "year": 2007,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Avventura"
       ],
-      "authorId": 1
+      "authorId": 1,
+      "author": "Masashi Kishimoto"
     },
     {
       "id": 3,
@@ -42,12 +44,13 @@
       "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
       "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
       "year": 2004,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Soprannaturale"
       ],
-      "authorId": 2
+      "authorId": 2,
+      "author": "Tite Kubo"
     },
     {
       "id": 4,
@@ -55,12 +58,13 @@
       "description": "L'umanità combatte contro i Titani.",
       "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF1000,1000_QL80_.jpg",
       "year": 2013,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Dramma"
       ],
-      "authorId": 3
+      "authorId": 3,
+      "author": "Hajime Isayama"
     },
     {
       "id": 5,
@@ -68,12 +72,13 @@
       "description": "Due fratelli usano l'alchimia per recuperare i loro corpi.",
       "imageUrl": "https://m.media-amazon.com/images/I/814IPObkuRL._AC_UF1000,1000_QL80_.jpg",
       "year": 2003,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Fantasy"
       ],
-      "authorId": 4
+      "authorId": 4,
+      "author": "Hiromu Arakawa"
     },
     {
       "id": 6,
@@ -81,12 +86,13 @@
       "description": "La versione definitiva della storia dei fratelli Elric.",
       "imageUrl": "https://i.ebayimg.com/images/g/EjAAAOSwiKVkNfyi/s-l1200.jpg",
       "year": 2009,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Fantasy"
       ],
-      "authorId": 4
+      "authorId": 4,
+      "author": "Hiromu Arakawa"
     },
     {
       "id": 7,
@@ -94,12 +100,13 @@
       "description": "Un quaderno in grado di uccidere chiunque.",
       "imageUrl": "https://m.media-amazon.com/images/I/61bF02c42JL._AC_UF1000,1000_QL80_.jpg",
       "year": 2006,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Thriller",
         "Soprannaturale"
       ],
-      "authorId": 5
+      "authorId": 5,
+      "author": "Tsugumi Ohba"
     },
     {
       "id": 8,
@@ -107,7 +114,7 @@
       "description": "Luffy e la sua ciurma cercano il tesoro One Piece.",
       "imageUrl": "https://m.media-amazon.com/images/I/81hipaenXVL._AC_UF1000,1000_QL80_.jpg",
       "year": 1999,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Avventura"
@@ -120,12 +127,13 @@
       "description": "Goku affronta potenti nemici per proteggere la Terra.",
       "imageUrl": "https://m.media-amazon.com/images/I/81Dy6cNM7yL._AC_UF1000,1000_QL80_.jpg",
       "year": 1989,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Arti Marziali"
       ],
-      "authorId": 7
+      "authorId": 7,
+      "author": "Akira Toriyama"
     },
     {
       "id": 10,
@@ -133,7 +141,7 @@
       "description": "In un mondo di supereroi, un ragazzo senza poteri vuole diventare un eroe.",
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/myheroacademia1-1200px",
       "year": 2016,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Supereroi"
@@ -146,12 +154,13 @@
       "description": "Un giovane combatte i demoni per salvare la sua famiglia.",
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/demonslayer-fanbook-1200px",
       "year": 2019,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Soprannaturale"
       ],
-      "authorId": 9
+      "authorId": 9,
+      "author": "Koyoharu Gotouge"
     },
     {
       "id": 12,
@@ -159,12 +168,13 @@
       "description": "Un ragazzo diventa metà ghoul e cerca di adattarsi alla sua nuova vita.",
       "imageUrl": "https://www.lafeltrinelli.it/images/9788834918494_0_536_0_75.jpg",
       "year": 2014,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Horror",
         "Soprannaturale"
       ],
-      "authorId": 10
+      "authorId": 10,
+      "author": "Sui Ishida"
     },
     {
       "id": 13,
@@ -172,7 +182,7 @@
       "description": "Natsu Dragneel, un giovane mago, affronta avventure insieme alla sua gilda.",
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/fairytail-variantcoveredition-1-1200px",
       "year": 2009,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Fantasy"
@@ -185,12 +195,13 @@
       "description": "Giocatori intrappolati in un MMORPG lottano per la loro libertà.",
       "imageUrl": "https://m.media-amazon.com/images/I/81rBX2Un6xL.jpg",
       "year": 2012,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Fantasy"
       ],
-      "authorId": 12
+      "authorId": 12,
+      "author": "Rumiko Takahashi"
     },
     {
       "id": 15,
@@ -198,7 +209,7 @@
       "description": "Adolescenti pilotano mech per difendere la Terra.",
       "imageUrl": "https://www.lafeltrinelli.it/images/9788828766520_0_424_0_75.jpg",
       "year": 1995,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Mecha",
         "Dramma"
@@ -211,7 +222,7 @@
       "description": "Asta, senza magia, cerca di diventare il Re Mago.",
       "imageUrl": "https://m.media-amazon.com/images/I/91dyTOTuCjL._AC_UF1000,1000_QL80_.jpg",
       "year": 2017,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Fantasy"
@@ -224,12 +235,13 @@
       "description": "Le bizzarre avventure della famiglia Joestar.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8d/Jojo.jpg/1200px-Jojo.jpg",
       "year": 2012,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Avventura"
       ],
-      "authorId": 15
+      "authorId": 15,
+      "author": "Kentaro Miura"
     },
     {
       "id": 18,
@@ -237,7 +249,7 @@
       "description": "Gon Freecss cerca suo padre come cacciatore.",
       "imageUrl": "https://m.media-amazon.com/images/I/61IiTjgqGNL._AC_UF1000,1000_QL80_.jpg",
       "year": 1999,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Avventura"
@@ -250,12 +262,13 @@
       "description": "Storia romantica di Tomoya e Nagisa.",
       "imageUrl": "https://m.media-amazon.com/images/I/91GvVFUJiGL._AC_UF1000,1000_QL80_.jpg",
       "year": 2007,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Dramma",
         "Romance"
       ],
-      "authorId": 17
+      "authorId": 17,
+      "author": "Yuki Tabata"
     },
     {
       "id": 20,
@@ -263,12 +276,13 @@
       "description": "Un giovane ottiene il potere di controllare le persone.",
       "imageUrl": "https://m.media-amazon.com/images/I/71U67rjOMML._AC_UF1000,1000_QL80_.jpg",
       "year": 2006,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Mecha",
         "Dramma"
       ],
-      "authorId": 18
+      "authorId": 18,
+      "author": "Kazuki Takahashi"
     },
     {
       "id": 21,
@@ -276,7 +290,7 @@
       "description": "Sulle avventure di un samurai in una Edo alternativa.",
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/gintama1-jpg-1",
       "year": 2006,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Commedia",
         "Azione"
@@ -289,12 +303,13 @@
       "description": "Un futuro distopico dove i crimini sono previsti.",
       "imageUrl": "https://m.media-amazon.com/images/I/71zsppNGq9L._AC_UF1000,1000_QL80_.jpg",
       "year": 2012,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Thriller",
         "Sci-Fi"
       ],
-      "authorId": 20
+      "authorId": 20,
+      "author": "Ai Yazawa"
     },
     {
       "id": 23,
@@ -302,7 +317,7 @@
       "description": "Viaggi nel tempo e misteri scientifici.",
       "imageUrl": "https://m.media-amazon.com/images/I/71g8dxxPJML._AC_UF1000,1000_QL80_.jpg",
       "year": 2011,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Sci-Fi",
         "Thriller"
@@ -315,12 +330,13 @@
       "description": "Un ragazzo con poteri psichici cerca normalità.",
       "imageUrl": "https://m.media-amazon.com/images/I/91UKU5m0YCL._AC_UF1000,1000_QL80_.jpg",
       "year": 2016,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Commedia"
       ],
-      "authorId": 22
+      "authorId": 22,
+      "author": "Shigeru Mizuki"
     },
     {
       "id": 25,
@@ -328,7 +344,7 @@
       "description": "Un gruppo di assassini lotta contro un impero corrotto.",
       "imageUrl": "https://www.fumettishop.it/wp-content/uploads/2023/09/8fb40dbad0f455a78adc0af1b98bdf29-722x999.jpg",
       "year": 2014,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Azione",
         "Dark Fantasy"
@@ -341,12 +357,13 @@
       "description": "Un ragazzo scopre di essere figlio di Satana.",
       "imageUrl": "https://m.media-amazon.com/images/I/813zZPC35ZL._AC_UF1000,1000_QL80_.jpg",
       "year": 2011,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Azione",
         "Soprannaturale"
       ],
-      "authorId": 24
+      "authorId": 24,
+      "author": "Kaoru Mori"
     },
     {
       "id": 27,
@@ -354,7 +371,7 @@
       "description": "Un giovane è infettato da un parassita alieno.",
       "imageUrl": "https://m.media-amazon.com/images/I/71s8eHAexEL._AC_UF1000,1000_QL80_.jpg",
       "year": 2014,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Horror",
         "Sci-Fi"
@@ -367,12 +384,13 @@
       "description": "Storia d'amore di un giovane pianista.",
       "imageUrl": "https://m.media-amazon.com/images/I/71KVorUu1QL._AC_UF1000,1000_QL80_.jpg",
       "year": 2014,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Dramma",
         "Romance"
       ],
-      "authorId": 26
+      "authorId": 26,
+      "author": "Junji Ito"
     },
     {
       "id": 29,
@@ -380,7 +398,7 @@
       "description": "Un'ex soldatessa scopre il significato delle emozioni.",
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc._UR300,300_BL99_UR1920,1080_CLs%7C1920,1080%7C/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc.jpg%7C0,0,1920,1080+0,0,1920,1080_SX720_FMjpg_.jpg",
       "year": 2018,
-      "watched": false,
+      "favorite": false,
       "genres": [
         "Dramma",
         "Fantasy"
@@ -393,12 +411,13 @@
       "description": "Un uomo viaggia nel tempo per prevenire un crimine.",
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/erased1-jpg-1",
       "year": 2016,
-      "watched": true,
+      "favorite": false,
       "genres": [
         "Thriller",
         "Dramma"
       ],
-      "authorId": 28
+      "authorId": 28,
+      "author": "Kazue Kato"
     }
   ],
   "authors": [

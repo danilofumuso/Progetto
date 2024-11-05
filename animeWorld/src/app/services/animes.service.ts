@@ -30,4 +30,8 @@ export class AnimesService {
       })
     );
   }
+
+  updateAnime(anime: iAnime): Observable<iAnime> {
+    return this.http.put<iAnime>(`${environment.animesUrl}/${anime.id}`, anime);
+  }
 }

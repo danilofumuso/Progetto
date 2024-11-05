@@ -4,7 +4,7 @@ export interface iAnime {
   description: string;
   imageUrl: string;
   year: number;
-  watched: boolean;
+  favorite: boolean;
   genres: string[];
   authorId: number;
   author?: string;

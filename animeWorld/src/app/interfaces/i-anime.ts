@@ -7,4 +7,5 @@ export interface iAnime {
   watched: boolean;
   genres: string[];
   authorId: number;
+  author?: string;
 }

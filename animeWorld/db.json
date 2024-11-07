@@ -7,6 +7,14 @@
       "surname": "Santilli",
       "userName": "Rik",
       "id": 1
+    },
+    {
+      "email": "danilo@email.it",
+      "password": "$2a$10$v6DaEUAUxCYqMiQP2mtaZu6BuFTxidhtzyNQdQiXuKnkx.Xu8t/p2",
+      "name": "Danilo",
+      "surname": "Fumuso",
+      "userName": "Danilo00",
+      "id": 2
     }
   ],
   "animes": [
@@ -17,10 +25,7 @@
       "imageUrl": "https://www.lafeltrinelli.it/images/9788828742470_0_536_0_75.jpg",
       "year": 2002,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Avventura"
-      ],
+      "genres": ["Azione", "Avventura"],
       "authorId": 1,
       "author": "Masashi Kishimoto"
     },
@@ -31,10 +36,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
       "year": 2007,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Avventura"
-      ],
+      "genres": ["Azione", "Avventura"],
       "authorId": 1,
       "author": "Masashi Kishimoto"
     },
@@ -45,10 +47,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
       "year": 2004,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Soprannaturale"
-      ],
+      "genres": ["Azione", "Soprannaturale"],
       "authorId": 2,
       "author": "Tite Kubo"
     },
@@ -59,10 +58,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF1000,1000_QL80_.jpg",
       "year": 2013,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Dramma"
-      ],
+      "genres": ["Azione", "Dramma"],
       "authorId": 3,
       "author": "Hajime Isayama"
     },
@@ -73,10 +69,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/814IPObkuRL._AC_UF1000,1000_QL80_.jpg",
       "year": 2003,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Fantasy"
-      ],
+      "genres": ["Azione", "Fantasy"],
       "authorId": 4,
       "author": "Hiromu Arakawa"
     },
@@ -87,10 +80,7 @@
       "imageUrl": "https://i.ebayimg.com/images/g/EjAAAOSwiKVkNfyi/s-l1200.jpg",
       "year": 2009,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Fantasy"
-      ],
+      "genres": ["Azione", "Fantasy"],
       "authorId": 4,
       "author": "Hiromu Arakawa"
     },
@@ -101,10 +91,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61bF02c42JL._AC_UF1000,1000_QL80_.jpg",
       "year": 2006,
       "favorite": false,
-      "genres": [
-        "Thriller",
-        "Soprannaturale"
-      ],
+      "genres": ["Thriller", "Soprannaturale"],
       "authorId": 5,
       "author": "Tsugumi Ohba"
     },
@@ -115,10 +102,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81hipaenXVL._AC_UF1000,1000_QL80_.jpg",
       "year": 1999,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Avventura"
-      ],
+      "genres": ["Azione", "Avventura"],
       "authorId": 6
     },
     {
@@ -128,10 +112,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81Dy6cNM7yL._AC_UF1000,1000_QL80_.jpg",
       "year": 1989,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Arti Marziali"
-      ],
+      "genres": ["Azione", "Arti Marziali"],
       "authorId": 7,
       "author": "Akira Toriyama"
     },
@@ -142,10 +123,7 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/myheroacademia1-1200px",
       "year": 2016,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Supereroi"
-      ],
+      "genres": ["Azione", "Supereroi"],
       "authorId": 8
     },
     {
@@ -155,10 +133,7 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/demonslayer-fanbook-1200px",
       "year": 2019,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Soprannaturale"
-      ],
+      "genres": ["Azione", "Soprannaturale"],
       "authorId": 9,
       "author": "Koyoharu Gotouge"
     },
@@ -169,10 +144,7 @@
       "imageUrl": "https://www.lafeltrinelli.it/images/9788834918494_0_536_0_75.jpg",
       "year": 2014,
       "favorite": false,
-      "genres": [
-        "Horror",
-        "Soprannaturale"
-      ],
+      "genres": ["Horror", "Soprannaturale"],
       "authorId": 10,
       "author": "Sui Ishida"
     },
@@ -183,10 +155,7 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/fairytail-variantcoveredition-1-1200px",
       "year": 2009,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Fantasy"
-      ],
+      "genres": ["Azione", "Fantasy"],
       "authorId": 11
     },
     {
@@ -196,10 +165,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81rBX2Un6xL.jpg",
       "year": 2012,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Fantasy"
-      ],
+      "genres": ["Azione", "Fantasy"],
       "authorId": 12,
       "author": "Rumiko Takahashi"
     },
@@ -210,10 +176,7 @@
       "imageUrl": "https://www.lafeltrinelli.it/images/9788828766520_0_424_0_75.jpg",
       "year": 1995,
       "favorite": false,
-      "genres": [
-        "Mecha",
-        "Dramma"
-      ],
+      "genres": ["Mecha", "Dramma"],
       "authorId": 13
     },
     {
@@ -223,10 +186,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91dyTOTuCjL._AC_UF1000,1000_QL80_.jpg",
       "year": 2017,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Fantasy"
-      ],
+      "genres": ["Azione", "Fantasy"],
       "authorId": 14
     },
     {
@@ -236,10 +196,7 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/it/thumb/8/8d/Jojo.jpg/1200px-Jojo.jpg",
       "year": 2012,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Avventura"
-      ],
+      "genres": ["Azione", "Avventura"],
       "authorId": 15,
       "author": "Kentaro Miura"
     },
@@ -250,10 +207,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/61IiTjgqGNL._AC_UF1000,1000_QL80_.jpg",
       "year": 1999,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Avventura"
-      ],
+      "genres": ["Azione", "Avventura"],
       "authorId": 16
     },
     {
@@ -263,10 +217,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91GvVFUJiGL._AC_UF1000,1000_QL80_.jpg",
       "year": 2007,
       "favorite": false,
-      "genres": [
-        "Dramma",
-        "Romance"
-      ],
+      "genres": ["Dramma", "Romance"],
       "authorId": 17,
       "author": "Yuki Tabata"
     },
@@ -277,10 +228,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71U67rjOMML._AC_UF1000,1000_QL80_.jpg",
       "year": 2006,
       "favorite": false,
-      "genres": [
-        "Mecha",
-        "Dramma"
-      ],
+      "genres": ["Mecha", "Dramma"],
       "authorId": 18,
       "author": "Kazuki Takahashi"
     },
@@ -291,10 +239,7 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/gintama1-jpg-1",
       "year": 2006,
       "favorite": false,
-      "genres": [
-        "Commedia",
-        "Azione"
-      ],
+      "genres": ["Commedia", "Azione"],
       "authorId": 19
     },
     {
@@ -304,10 +249,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71zsppNGq9L._AC_UF1000,1000_QL80_.jpg",
       "year": 2012,
       "favorite": false,
-      "genres": [
-        "Thriller",
-        "Sci-Fi"
-      ],
+      "genres": ["Thriller", "Sci-Fi"],
       "authorId": 20,
       "author": "Ai Yazawa"
     },
@@ -318,10 +260,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71g8dxxPJML._AC_UF1000,1000_QL80_.jpg",
       "year": 2011,
       "favorite": false,
-      "genres": [
-        "Sci-Fi",
-        "Thriller"
-      ],
+      "genres": ["Sci-Fi", "Thriller"],
       "authorId": 21
     },
     {
@@ -331,10 +270,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/91UKU5m0YCL._AC_UF1000,1000_QL80_.jpg",
       "year": 2016,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Commedia"
-      ],
+      "genres": ["Azione", "Commedia"],
       "authorId": 22,
       "author": "Shigeru Mizuki"
     },
@@ -345,10 +281,7 @@
       "imageUrl": "https://www.fumettishop.it/wp-content/uploads/2023/09/8fb40dbad0f455a78adc0af1b98bdf29-722x999.jpg",
       "year": 2014,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Dark Fantasy"
-      ],
+      "genres": ["Azione", "Dark Fantasy"],
       "authorId": 23
     },
     {
@@ -358,10 +291,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/813zZPC35ZL._AC_UF1000,1000_QL80_.jpg",
       "year": 2011,
       "favorite": false,
-      "genres": [
-        "Azione",
-        "Soprannaturale"
-      ],
+      "genres": ["Azione", "Soprannaturale"],
       "authorId": 24,
       "author": "Kaoru Mori"
     },
@@ -372,10 +302,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71s8eHAexEL._AC_UF1000,1000_QL80_.jpg",
       "year": 2014,
       "favorite": false,
-      "genres": [
-        "Horror",
-        "Sci-Fi"
-      ],
+      "genres": ["Horror", "Sci-Fi"],
       "authorId": 25
     },
     {
@@ -385,10 +312,7 @@
       "imageUrl": "https://m.media-amazon.com/images/I/71KVorUu1QL._AC_UF1000,1000_QL80_.jpg",
       "year": 2014,
       "favorite": false,
-      "genres": [
-        "Dramma",
-        "Romance"
-      ],
+      "genres": ["Dramma", "Romance"],
       "authorId": 26,
       "author": "Junji Ito"
     },
@@ -399,10 +323,7 @@
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc._UR300,300_BL99_UR1920,1080_CLs%7C1920,1080%7C/e1b2467e5852b160fe07bdae5068649bff8e6fd3ad2952830654607476c7d5cc.jpg%7C0,0,1920,1080+0,0,1920,1080_SX720_FMjpg_.jpg",
       "year": 2018,
       "favorite": false,
-      "genres": [
-        "Dramma",
-        "Fantasy"
-      ],
+      "genres": ["Dramma", "Fantasy"],
       "authorId": 27
     },
     {
@@ -412,10 +333,7 @@
       "imageUrl": "https://www.starcomics.com/files/immagini/fumetti-cover/erased1-jpg-1",
       "year": 2016,
       "favorite": false,
-      "genres": [
-        "Thriller",
-        "Dramma"
-      ],
+      "genres": ["Thriller", "Dramma"],
       "authorId": 28,
       "author": "Kazue Kato"
     }
@@ -562,142 +480,5 @@
       "bio": "Kazue Kato è l'autrice di 'Blue Exorcist', un manga che segue le avventure di Rin Okumura, un giovane esorcista con una natura demoniaca. Kato, nata nel 1980, ha costruito una storia che combina elementi di azione, avventura e sovrannaturale, attirando lettori appassionati in tutto il mondo."
     }
   ],
-  "favorites": [
-    {
-      "anime": {
-        "id": 2,
-        "title": "Naruto Shippuden",
-        "description": "Naruto ritorna a Konoha più forte che mai.",
-        "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
-        "year": 2007,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Avventura"
-        ],
-        "authorId": 1,
-        "author": "Masashi Kishimoto"
-      },
-      "id": 1
-    },
-    {
-      "anime": {
-        "id": 2,
-        "title": "Naruto Shippuden",
-        "description": "Naruto ritorna a Konoha più forte che mai.",
-        "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
-        "year": 2007,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Avventura"
-        ],
-        "authorId": 1,
-        "author": "Masashi Kishimoto"
-      },
-      "id": 2
-    },
-    {
-      "anime": {
-        "id": 3,
-        "title": "Bleach",
-        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
-        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
-        "year": 2004,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Soprannaturale"
-        ],
-        "authorId": 2,
-        "author": "Tite Kubo"
-      },
-      "id": 3
-    },
-    {
-      "anime": {
-        "id": 3,
-        "title": "Bleach",
-        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
-        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
-        "year": 2004,
-        "favorite": false,
-        "genres": [
-          "Azione",
-          "Soprannaturale"
-        ],
-        "authorId": 2,
-        "author": "Tite Kubo"
-      },
-      "id": 4
-    },
-    {
-      "anime": {
-        "id": 4,
-        "title": "Attack on Titan",
-        "description": "L'umanità combatte contro i Titani.",
-        "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF1000,1000_QL80_.jpg",
-        "year": 2013,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Dramma"
-        ],
-        "authorId": 3,
-        "author": "Hajime Isayama"
-      },
-      "id": 5
-    },
-    {
-      "anime": {
-        "id": 3,
-        "title": "Bleach",
-        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
-        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
-        "year": 2004,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Soprannaturale"
-        ],
-        "authorId": 2,
-        "author": "Tite Kubo"
-      },
-      "id": 6
-    },
-    {
-      "anime": {
-        "id": 3,
-        "title": "Bleach",
-        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
-        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
-        "year": 2004,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Soprannaturale"
-        ],
-        "authorId": 2,
-        "author": "Tite Kubo"
-      },
-      "id": 7
-    },
-    {
-      "anime": {
-        "id": 3,
-        "title": "Bleach",
-        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
-        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
-        "year": 2004,
-        "favorite": true,
-        "genres": [
-          "Azione",
-          "Soprannaturale"
-        ],
-        "authorId": 2,
-        "author": "Tite Kubo"
-      },
-      "id": 8
-    }
-  ]
+  "favorites": []
 }

@@ -14,7 +14,8 @@ import { iFavorite } from '../../interfaces/i-favorite';
 export class AnimeComponent {
   @Input() anime!: iAnime;
   userId!: number;
-  newFavorite!: iFavorite;
+  favorites: iFavorite[] = [];
+  favorite!: iFavorite;
 
   constructor(
     private router: Router,
@@ -41,6 +42,14 @@ export class AnimeComponent {
         if (anime.favorite) {
           this.favoritesSvc.addFavorites(this.userId, anime).subscribe();
         } else {
+          this.favoritesSvc
+            .getFavoritesByUserId(this.userId)
+            .subscribe((favorites) => {
+              this.favorites = favorites;
+              console.log(favorites);
+
+              this.favoritesSvc.removeFavorites(this.favorite);
+            }); //dobbiamo capire come passare il favorite da cancellare!
         }
       });
   }

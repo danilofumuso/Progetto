@@ -561,5 +561,143 @@
       "fullName": "Kazue Kato",
       "bio": "Kazue Kato è l'autrice di 'Blue Exorcist', un manga che segue le avventure di Rin Okumura, un giovane esorcista con una natura demoniaca. Kato, nata nel 1980, ha costruito una storia che combina elementi di azione, avventura e sovrannaturale, attirando lettori appassionati in tutto il mondo."
     }
+  ],
+  "favorites": [
+    {
+      "anime": {
+        "id": 2,
+        "title": "Naruto Shippuden",
+        "description": "Naruto ritorna a Konoha più forte che mai.",
+        "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
+        "year": 2007,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Avventura"
+        ],
+        "authorId": 1,
+        "author": "Masashi Kishimoto"
+      },
+      "id": 1
+    },
+    {
+      "anime": {
+        "id": 2,
+        "title": "Naruto Shippuden",
+        "description": "Naruto ritorna a Konoha più forte che mai.",
+        "imageUrl": "https://m.media-amazon.com/images/I/91tTdW79vdL.jpg",
+        "year": 2007,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Avventura"
+        ],
+        "authorId": 1,
+        "author": "Masashi Kishimoto"
+      },
+      "id": 2
+    },
+    {
+      "anime": {
+        "id": 3,
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
+        "year": 2004,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Soprannaturale"
+        ],
+        "authorId": 2,
+        "author": "Tite Kubo"
+      },
+      "id": 3
+    },
+    {
+      "anime": {
+        "id": 3,
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
+        "year": 2004,
+        "favorite": false,
+        "genres": [
+          "Azione",
+          "Soprannaturale"
+        ],
+        "authorId": 2,
+        "author": "Tite Kubo"
+      },
+      "id": 4
+    },
+    {
+      "anime": {
+        "id": 4,
+        "title": "Attack on Titan",
+        "description": "L'umanità combatte contro i Titani.",
+        "imageUrl": "https://m.media-amazon.com/images/I/81qPzeEO5IL._AC_UF1000,1000_QL80_.jpg",
+        "year": 2013,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Dramma"
+        ],
+        "authorId": 3,
+        "author": "Hajime Isayama"
+      },
+      "id": 5
+    },
+    {
+      "anime": {
+        "id": 3,
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
+        "year": 2004,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Soprannaturale"
+        ],
+        "authorId": 2,
+        "author": "Tite Kubo"
+      },
+      "id": 6
+    },
+    {
+      "anime": {
+        "id": 3,
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
+        "year": 2004,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Soprannaturale"
+        ],
+        "authorId": 2,
+        "author": "Tite Kubo"
+      },
+      "id": 7
+    },
+    {
+      "anime": {
+        "id": 3,
+        "title": "Bleach",
+        "description": "Ichigo Kurosaki ottiene i poteri di un Shinigami.",
+        "imageUrl": "https://m.media-amazon.com/images/I/61IhtEkNyzL._AC_UF1000,1000_QL80_.jpg",
+        "year": 2004,
+        "favorite": true,
+        "genres": [
+          "Azione",
+          "Soprannaturale"
+        ],
+        "authorId": 2,
+        "author": "Tite Kubo"
+      },
+      "id": 8
+    }
   ]
 }
